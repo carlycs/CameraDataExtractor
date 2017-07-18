@@ -1,6 +1,13 @@
+#manual
+.DS_Store
+.gitignore
+.git/*
+.git
+
 # History files
 .Rhistory
 .Rapp.history
+
 
 # Session Data files
 .RData
