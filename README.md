@@ -1,10 +1,10 @@
 # CameraDataExtractor
 A simple R + Python Data Extractor from Images based on darknet package.
 
-##Installation for darknet 
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+Installation for darknet 
+------------------------
 
-#Darknet#
+
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
@@ -12,5 +12,5 @@ For more information see the [Darknet project website](http://pjreddie.com/darkn
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 
 
-##Screenshots
-TBD
+## Screenshots
+
