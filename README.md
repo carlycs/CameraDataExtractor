@@ -35,6 +35,6 @@ These new type of information can be helpful across departments like marketing w
 Current Data Flow
 -----------------
 The following three gif files below clear the main steps that are being developed:
-![create searchable database of frames in mongodb](gifoneOUkLi.gif)
-![remove roads and blocks](/listoneOUkLi.gif)
-![remove false positives](/gif threeOUkLi.gif)
+![create searchable database of frames in mongodb](gif01.gif)
+![remove roads and blocks](assets/gif02.gif)
+![remove false positives](assets/gif03.gif)
